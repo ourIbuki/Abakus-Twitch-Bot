@@ -1,0 +1,9 @@
+Following Files and Folders must be in the same direction as the "servant.py":
+-> /static/
+-> /templates/
+-> servant.py
+
+Following Files and Folders must be in the "C:/" direction:
+-> /Novelnia/
+
+Befor Running you sould change the "# User Settings" in the "servant.py" code!
